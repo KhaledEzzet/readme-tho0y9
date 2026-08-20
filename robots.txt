@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KhaledEzzet.github.io/readme-tho0y9/sitemap.xml
